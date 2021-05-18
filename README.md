@@ -1,1 +1,1 @@
-# Kovalevskyi AcademyCoding - Bootcamp March 2021!
+# Kovalevskyi Academy - Coding Bootcamp March 2021!
